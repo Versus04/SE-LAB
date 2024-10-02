@@ -1,0 +1,5 @@
+flask
+pandas
+scikit-learn
+numpy
+requests  # This might be needed for making API calls if used in get_symptoms_data()
